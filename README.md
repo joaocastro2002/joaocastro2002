@@ -13,7 +13,7 @@
 
 - 😃 Pronouns: Castro
 
-- ⚡ Fun fact: **Sou muito ligado a desportos e dessa maneira frequento um ginásio e já pratiquei futebol. Para além disso adoro jogar**
+- ⚡ Fun fact: **Sou muito ligado a desportos e dessa maneira frequento um ginásio e já pratiquei futebol. Para além disso adoro jogar videojogos**
 
  ## 🚀 Languages and Tools
 <p align="left"> 
