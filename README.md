@@ -46,9 +46,8 @@
   
   ## 🐍 History
  
-  ![snake gif](https://github.com/joaocastro2002/joaocastro2002/blob/output/github-contribution-grid-snake.gif)
- 
-</div>
+  ![Snake animation](https://github.com/joaocastro2002/joaocastro2002/blob/output/github-contribution-grid-snake.svg)
+
   
   ## 📫 How to reach me
  <p align="left">
