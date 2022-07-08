@@ -2,8 +2,8 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Olá <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Eu sou o João Castro e tenho 19 anos</h1>
-<h3 align="center">Atualmente estou a tirar a licenciatura de engenharia de sistemas informáticos no IPCA.</h3>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is João Castro and i'm 19 years old</h1>
+<h3 align="center">I'm currently taking a degree in computer systems engineering at IPCA.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -13,22 +13,19 @@
 
 - 😃 Pronouns: Castro
 
-- ⚡ Fun fact: **Sou muito ligado a desportos e dessa maneira frequento um ginásio e já pratiquei futebol. Para além disso adoro jogar videojogos**
+- ⚡ Fun fact: **I love sports so I go to a gym in my spare time and I've played federated football. In addition, I love to play video games and watch series**
 
  ## 🚀 Languages and Tools
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
   <a style="padding-right:8px;" href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-  
-            <a href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"></a>
-          
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>         
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
 </p>
   
   <p>
-    <b>Nota:</b> Apesar destas serem as linguagens que mais utilizo, estou sempre disposto a aprender mais.
+    <b>Nota:</b> Although these are the tools I use the most, I am always willing to learn more.
   </p>
     
   
