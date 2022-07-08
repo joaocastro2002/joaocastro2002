@@ -3,7 +3,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is João Castro and i'm 19 years old</h1>
-<h3 align="center">I'm currently taking a degree in computer engineering at IPCA.</h3>
+<h3 align="center">I'm currently taking a degree in computer engineering degree at IPCA.</h3>
 
 ## 🙋‍♂️ About Me
 
@@ -50,7 +50,7 @@
  - <a href="https://github.com/joaocastro2002/api_gymapp_ts"><p dir="auto">Node API for GymApp</p></a>
  - <a href="https://github.com/joaocastro2002/gymapp_gateway_api"><p dir="auto">Gateway MicroService for GymApp API</p></a>
  - <a href="https://github.com/joaocastro2002/web_gymapp"><p dir="auto">GymApp WebPage</p></a>
- - <a href="https://github.com/joaocastro2002/Comida_Feia">Comida Feia App</a>
+ - <a href="https://github.com/joaocastro2002/Comida_Feia">Comida Feia App | First Year Computer Engineering Degree</a>
   
   ## 🐍 History
  
