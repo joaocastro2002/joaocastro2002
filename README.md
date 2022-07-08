@@ -3,13 +3,15 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, My name is João Castro and i'm 19 years old</h1>
-<h3 align="center">I'm currently taking a degree in computer systems engineering at IPCA.</h3>
+<h3 align="center">I'm currently taking a degree in computer engineering at IPCA.</h3>
 
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on improving my code
 
-- 🌱 I’m currently completing a Informatic Systems Engineering Degree
+- 🌱 I’m currently completing a Computer Engineering Degree
+
+- 💻 I’m currently working on a mobile app
 
 - 😃 Pronouns: Castro
 
