@@ -47,6 +47,9 @@
 
   ## 💻 My Projects 
  
+    ### 💼 My Portfolio
+    - <a href="https://github.com/joaocastro2002/Portfolio"><p dir="auto">My Portfolio</p></a>
+    
  - <a href="https://github.com/joaocastro2002/api_gymapp_ts"><p dir="auto">Node API for GymApp</p></a>
  - <a href="https://github.com/joaocastro2002/gymapp_gateway_api"><p dir="auto">Gateway MicroService for GymApp API</p></a>
  - <a href="https://github.com/joaocastro2002/web_gymapp"><p dir="auto">GymApp WebPage</p></a>
