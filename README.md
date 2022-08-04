@@ -47,7 +47,10 @@
 
  
  ## 💼 My Portfolio
- - <a href="https://github.com/joaocastro2002/Portfolio"><p dir="auto">My Portfolio</p></a>
+ 
+ 
+ - <a href="https://github.com/joaocastro2002/Portfolio"><p dir="auto">Portfolio</p></a>
+ 
  
   ## 💻 My Projects 
   
