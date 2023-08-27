@@ -42,7 +42,7 @@
 </p>
   
   <p>
-    <b>Note:</b> Although these are the tools I use the most, I am always willing to learn more.
+    <b>Note:</b> Although these are the tools I use the most, or that I know the basics of, I am always willing to learn more.
   </p>
     
   
