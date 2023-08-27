@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on improving my code
 
-- 🌱 I’m currently completing a Computer Engineering Degree
+- 🌱 Recently completed the Computer Engineering Degree
 
-- 💻 I’m currently working on a mobile app
+- 💻 I’m currently working on a web chat
 
 - 😃 Pronouns: Castro
 
