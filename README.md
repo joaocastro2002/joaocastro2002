@@ -27,7 +27,7 @@
 </p>
   
   <p>
-    <b>Nota:</b> Although these are the tools I use the most, I am always willing to learn more.
+    <b>Note:</b> Although these are the tools I use the most, I am always willing to learn more.
   </p>
     
   
