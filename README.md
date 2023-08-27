@@ -7,7 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on improving my code
+- 👨‍💻 Full stack developer
+
+- 🔭 I’m currently working on a web chat
 
 - 🌱 Recently completed the Computer Engineering Degree
 
@@ -19,12 +21,24 @@
 
  ## 🚀 Languages and Tools
 <p align="left"> 
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
+  <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a>
   <a style="padding-right:8px;" href="https://www.geeksforgeeks.org/c-programming-language/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>         
+  <a style="padding-right:8px;" href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>         
   <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>  
-  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+  <a style="padding-right:8px;"href="https://www.w3schools.com/html/" target="_blank"><img height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
+  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> </a>
+  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg"> </a>
+  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> </a>
+  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> </a>
+  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="45" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
+  <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg"> </a>
+ <a style="padding-right:8px;" href="https://www.w3schools.com/css/" target="_blank"> <img style="margin-bottom:10px;"  height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> </a>
 </p>
   
   <p>
